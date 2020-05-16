@@ -15,7 +15,7 @@
 
 为了更加直观理解DOM树，可以打开开发者工具，在控制台输入document回车，便可以看到一个完整的DOM结构，如下图所示：
 
-![1](E:\13-webstudy-feidian\img\1.png)
+![1](https://raw.githubusercontent.com/wind-jyf/webstudy-feidian/master/img/1.png)
 
 ![](http://www.alloyteam.com/wp-content/uploads/2016/05/%E4%BC%AA%E7%B1%BB.png)
 
